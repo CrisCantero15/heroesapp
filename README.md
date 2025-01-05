@@ -1,3 +1,3 @@
 # Heroes App - React SPA
 
-App web sobre Heroes de Marvel y DC Comics
+App web para obtener información de algunos héroes de Marvel y DC Comics
