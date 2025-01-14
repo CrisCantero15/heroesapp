@@ -12,7 +12,6 @@ export const Navbar = () => {
         navigate('/login', {
             replace: true
         });
-
     }
 
     return (
@@ -58,6 +57,7 @@ export const Navbar = () => {
                     <button 
                         className="nav-item nav-link btn"
                         onClick={ handleLogout }
+                        aria-label="btn-logout"
                     >
                         Logout
                     </button>
